@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>MouseKeyboardActivityMonitor</id>
+    <version>4.0.5150.10665</version>
+    <title>Application and Global Mouse and Keyboard Hooks .Net Library in C#</title>
+    <authors>gmamaladze, aflyhorse, Cel654321, cocode, danzar101, nhr, Tomboy</authors>
+    <owners>gmamaladze, aflyhorse, Cel654321, cocode, danzar101, nhr, Tomboy</owners>
+    <projectUrl>http://globalmousekeyhook.codeplex.com/</projectUrl>
+    <iconUrl>https://download-codeplex.sec.s-msft.com/Download?ProjectName=globalmousekeyhook&amp;DownloadId=283107&amp;Build=20798</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This library attaches to windows global hooks, tracks keyboard and mouse clicks and movement and raises common .NET events with KeyEventArgs and MouseEventArgs, so you can easily retrieve any information you need:
+* Mouse coordinates
+* Mouse buttons clicked
+* Mouse wheel scrolls
+* Key presses and releases
+* Special key states
+
+Additionally, there are MouseEventExtArgs and KeyEventExtArgs which provide further options:
+* Input suppression
+* Timestamp
+* IsMouseDown/Up
+* IsKeyDown/Up.
+
+For more documentations, please check the project homepage.</description>
+    <summary>This library allows you to tap keyboard and mouse and to detect and record their activity even when an application is inactive and runs in background.</summary>
+    <releaseNotes>This is my personal redistribution of changeset 28374 (proposed V4 Release alpha 2)
+
+What's New:
+Applied patch 11222, a quick click-move-click will no longer fire a fake double click event.</releaseNotes>
+    <copyright>New BSD License</copyright>
+  </metadata>
+</package>

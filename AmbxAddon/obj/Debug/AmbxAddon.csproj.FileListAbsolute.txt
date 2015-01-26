@@ -1,0 +1,15 @@
+c:\users\wolfgang\documents\visual studio 2013\Projects\AmbxAddon\AmbxAddon\bin\Debug\AmbxAddon.exe.config
+c:\users\wolfgang\documents\visual studio 2013\Projects\AmbxAddon\AmbxAddon\bin\Debug\AmbxAddon.exe
+c:\users\wolfgang\documents\visual studio 2013\Projects\AmbxAddon\AmbxAddon\bin\Debug\AmbxAddon.pdb
+c:\users\wolfgang\documents\visual studio 2013\Projects\AmbxAddon\AmbxAddon\bin\Debug\amBXLib.dll
+c:\users\wolfgang\documents\visual studio 2013\Projects\AmbxAddon\AmbxAddon\obj\Debug\AmbxAddon.Properties.Resources.resources
+c:\users\wolfgang\documents\visual studio 2013\Projects\AmbxAddon\AmbxAddon\obj\Debug\AmbxAddon.csproj.GenerateResource.Cache
+c:\users\wolfgang\documents\visual studio 2013\Projects\AmbxAddon\AmbxAddon\obj\Debug\AmbxAddon.exe
+c:\users\wolfgang\documents\visual studio 2013\Projects\AmbxAddon\AmbxAddon\obj\Debug\AmbxAddon.pdb
+C:\Users\Wolfgang\Documents\Visual Studio 2013\Projects\AmbxAddon\AmbxAddon\obj\Debug\AmbxAddon.csprojResolveAssemblyReference.cache
+C:\Users\Wolfgang\Documents\Visual Studio 2013\Projects\AmbxAddon\AmbxAddon\bin\Debug\MouseKeyboardActivityMonitor.dll
+C:\Users\Wolfgang\Documents\Visual Studio 2013\Projects\AmbxAddon\AmbxAddon\bin\Debug\MouseKeyboardActivityMonitor.xml
+C:\Users\Wolfgang\documents\visual studio 2013\Projects\AmbxAddon\AmbxAddon\bin\Debug\gun3.ico
+C:\Users\Wolfgang\Source\Repos\ShooterAmbx\AmbxAddon\bin\Debug\AmbxAddon.exe.config
+C:\Users\Wolfgang\Source\Repos\ShooterAmbx\AmbxAddon\obj\Debug\AmbxAddon.exe
+C:\Users\Wolfgang\Source\Repos\ShooterAmbx\AmbxAddon\obj\Debug\AmbxAddon.pdb
