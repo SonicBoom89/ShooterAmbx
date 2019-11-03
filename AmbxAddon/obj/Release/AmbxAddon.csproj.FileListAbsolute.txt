@@ -10,3 +10,8 @@ C:\Users\Wolfgang\documents\visual studio 2013\Projects\AmbxAddon\AmbxAddon\bin\
 C:\Users\Wolfgang\documents\visual studio 2013\Projects\AmbxAddon\AmbxAddon\bin\Release\MouseKeyboardActivityMonitor.dll
 C:\Users\Wolfgang\documents\visual studio 2013\Projects\AmbxAddon\AmbxAddon\bin\Release\MouseKeyboardActivityMonitor.xml
 C:\Users\Wolfgang\Documents\Visual Studio 2013\Projects\AmbxAddon\AmbxAddon\obj\Release\AmbxAddon.csprojResolveAssemblyReference.cache
+E:\ambx\AmbxAddon\obj\Release\AmbxAddon.csprojAssemblyReference.cache
+E:\ambx\AmbxAddon\obj\Release\AmbxAddon.Properties.Resources.resources
+E:\ambx\AmbxAddon\obj\Release\AmbxAddon.csproj.GenerateResource.cache
+E:\ambx\AmbxAddon\obj\Release\AmbxAddon.exe
+E:\ambx\AmbxAddon\obj\Release\AmbxAddon.pdb

@@ -1,0 +1,289 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "log4net/2.0.8": {
+        "type": "package",
+        "compile": {
+          "lib/net45-full/log4net.dll": {}
+        },
+        "runtime": {
+          "lib/net45-full/log4net.dll": {}
+        }
+      },
+      "MouseKeyboardActivityMonitor/4.0.5150.10665": {
+        "type": "package",
+        "compile": {
+          "lib/net20/MouseKeyboardActivityMonitor.dll": {}
+        },
+        "runtime": {
+          "lib/net20/MouseKeyboardActivityMonitor.dll": {}
+        }
+      },
+      "Ninject/3.3.4": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Ninject.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Ninject.dll": {}
+        }
+      },
+      "amBXLib/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/amBXLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/amBXLib.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "log4net/2.0.8": {
+        "type": "package",
+        "compile": {
+          "lib/net45-full/log4net.dll": {}
+        },
+        "runtime": {
+          "lib/net45-full/log4net.dll": {}
+        }
+      },
+      "MouseKeyboardActivityMonitor/4.0.5150.10665": {
+        "type": "package",
+        "compile": {
+          "lib/net20/MouseKeyboardActivityMonitor.dll": {}
+        },
+        "runtime": {
+          "lib/net20/MouseKeyboardActivityMonitor.dll": {}
+        }
+      },
+      "Ninject/3.3.4": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Ninject.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Ninject.dll": {}
+        }
+      },
+      "amBXLib/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/amBXLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/amBXLib.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "log4net/2.0.8": {
+        "type": "package",
+        "compile": {
+          "lib/net45-full/log4net.dll": {}
+        },
+        "runtime": {
+          "lib/net45-full/log4net.dll": {}
+        }
+      },
+      "MouseKeyboardActivityMonitor/4.0.5150.10665": {
+        "type": "package",
+        "compile": {
+          "lib/net20/MouseKeyboardActivityMonitor.dll": {}
+        },
+        "runtime": {
+          "lib/net20/MouseKeyboardActivityMonitor.dll": {}
+        }
+      },
+      "Ninject/3.3.4": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Ninject.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Ninject.dll": {}
+        }
+      },
+      "amBXLib/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/amBXLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/amBXLib.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "log4net/2.0.8": {
+        "type": "package",
+        "compile": {
+          "lib/net45-full/log4net.dll": {}
+        },
+        "runtime": {
+          "lib/net45-full/log4net.dll": {}
+        }
+      },
+      "MouseKeyboardActivityMonitor/4.0.5150.10665": {
+        "type": "package",
+        "compile": {
+          "lib/net20/MouseKeyboardActivityMonitor.dll": {}
+        },
+        "runtime": {
+          "lib/net20/MouseKeyboardActivityMonitor.dll": {}
+        }
+      },
+      "Ninject/3.3.4": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Ninject.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Ninject.dll": {}
+        }
+      },
+      "amBXLib/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/amBXLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/amBXLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "log4net/2.0.8": {
+      "sha512": "N41MQGHZImiCfn0cUuSBjZxrcNfIQCuCgQP0rpgB3J/NWponEh3lc1LxJEuIsPAR9Oc1jVvfkNNFCY1C5hf9LA==",
+      "type": "package",
+      "path": "log4net/2.0.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net20-full/log4net.dll",
+        "lib/net20-full/log4net.xml",
+        "lib/net35-client/log4net.dll",
+        "lib/net35-client/log4net.xml",
+        "lib/net35-full/log4net.dll",
+        "lib/net35-full/log4net.xml",
+        "lib/net40-client/log4net.dll",
+        "lib/net40-client/log4net.xml",
+        "lib/net40-full/log4net.dll",
+        "lib/net40-full/log4net.xml",
+        "lib/net45-full/log4net.dll",
+        "lib/net45-full/log4net.xml",
+        "lib/netstandard1.3/log4net.dll",
+        "log4net.2.0.8.nupkg.sha512",
+        "log4net.nuspec"
+      ]
+    },
+    "MouseKeyboardActivityMonitor/4.0.5150.10665": {
+      "sha512": "phBROtrPYSici1SCvhK8W9AwvF8tW0fSiHh7AXmr5HnpQZXC655IuyrSHRh1zRLn6q0wSqyB/cImxyhgaNbZVA==",
+      "type": "package",
+      "path": "mousekeyboardactivitymonitor/4.0.5150.10665",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/_._",
+        "lib/net20/MouseKeyboardActivityMonitor.dll",
+        "lib/net20/MouseKeyboardActivityMonitor.xml",
+        "mousekeyboardactivitymonitor.4.0.5150.10665.nupkg.sha512",
+        "mousekeyboardactivitymonitor.nuspec"
+      ]
+    },
+    "Ninject/3.3.4": {
+      "sha512": "CmbWW97FfJuh4LEOVZM/spqXl4KAulRUjqeMwRd5J9rDMQArmIYaDMU3pyzXXHT062tbF0OPIMwI7tSOtprPfg==",
+      "type": "package",
+      "path": "ninject/3.3.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/Ninject.dll",
+        "lib/net45/Ninject.xml",
+        "lib/netstandard2.0/Ninject.dll",
+        "lib/netstandard2.0/Ninject.xml",
+        "ninject.3.3.4.nupkg.sha512",
+        "ninject.nuspec"
+      ]
+    },
+    "amBXLib/1.0.0": {
+      "type": "project",
+      "path": "../../dotnet-master/dotnet-master/amBXLib/amBXLib/amBXLib.vcxproj",
+      "msbuildProject": "../../dotnet-master/dotnet-master/amBXLib/amBXLib/amBXLib.vcxproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "MouseKeyboardActivityMonitor >= 4.0.5150.10665",
+      "Ninject >= 3.3.4",
+      "amBXLib >= 1.0.0",
+      "log4net >= 2.0.8"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Wolfgang\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\ambx\\AmbxAddon\\AmbxAddon.csproj",
+      "projectName": "AmbxAddon",
+      "projectPath": "E:\\ambx\\AmbxAddon\\AmbxAddon.csproj",
+      "packagesPath": "C:\\Users\\Wolfgang\\.nuget\\packages\\",
+      "outputPath": "E:\\ambx\\AmbxAddon\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\Wolfgang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {
+            "E:\\dotnet-master\\dotnet-master\\amBXLib\\amBXLib\\amBXLib.vcxproj": {
+              "projectPath": "E:\\dotnet-master\\dotnet-master\\amBXLib\\amBXLib\\amBXLib.vcxproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "MouseKeyboardActivityMonitor": {
+            "target": "Package",
+            "version": "[4.0.5150.10665, )"
+          },
+          "Ninject": {
+            "target": "Package",
+            "version": "[3.3.4, )"
+          },
+          "log4net": {
+            "target": "Package",
+            "version": "[2.0.8, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

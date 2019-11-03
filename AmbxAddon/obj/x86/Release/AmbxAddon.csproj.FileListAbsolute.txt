@@ -1,0 +1,17 @@
+E:\ambx\AmbxAddon\obj\x86\Release\AmbxAddon.Properties.Resources.resources
+E:\ambx\AmbxAddon\obj\x86\Release\AmbxAddon.csproj.GenerateResource.cache
+E:\ambx\AmbxAddon\bin\x86\Release\gun3.ico
+E:\ambx\AmbxAddon\bin\x86\Release\log4net.config
+E:\ambx\AmbxAddon\bin\x86\Release\AmbxAddon.exe.config
+E:\ambx\AmbxAddon\bin\x86\Release\AmbxAddon.exe
+E:\ambx\AmbxAddon\bin\x86\Release\AmbxAddon.pdb
+E:\ambx\AmbxAddon\bin\x86\Release\log4net.dll
+E:\ambx\AmbxAddon\bin\x86\Release\MouseKeyboardActivityMonitor.dll
+E:\ambx\AmbxAddon\bin\x86\Release\Ninject.dll
+E:\ambx\AmbxAddon\bin\x86\Release\amBXLib.dll
+E:\ambx\AmbxAddon\bin\x86\Release\amBXLib.Net.dll
+E:\ambx\AmbxAddon\bin\x86\Release\amBXLib.pdb
+E:\ambx\AmbxAddon\obj\x86\Release\AmbxAddon.csprojAssemblyReference.cache
+E:\ambx\AmbxAddon\obj\x86\Release\AmbxAddon.csproj.CopyComplete
+E:\ambx\AmbxAddon\obj\x86\Release\AmbxAddon.exe
+E:\ambx\AmbxAddon\obj\x86\Release\AmbxAddon.pdb

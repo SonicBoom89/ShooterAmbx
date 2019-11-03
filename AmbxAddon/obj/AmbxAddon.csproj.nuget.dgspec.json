@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\ambx\\AmbxAddon\\AmbxAddon.csproj": {}
+  },
+  "projects": {
+    "E:\\ambx\\AmbxAddon\\AmbxAddon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ambx\\AmbxAddon\\AmbxAddon.csproj",
+        "projectName": "AmbxAddon",
+        "projectPath": "E:\\ambx\\AmbxAddon\\AmbxAddon.csproj",
+        "packagesPath": "C:\\Users\\Wolfgang\\.nuget\\packages\\",
+        "outputPath": "E:\\ambx\\AmbxAddon\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Wolfgang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "E:\\dotnet-master\\dotnet-master\\amBXLib\\amBXLib\\amBXLib.vcxproj": {
+                "projectPath": "E:\\dotnet-master\\dotnet-master\\amBXLib\\amBXLib\\amBXLib.vcxproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "MouseKeyboardActivityMonitor": {
+              "target": "Package",
+              "version": "[4.0.5150.10665, )"
+            },
+            "Ninject": {
+              "target": "Package",
+              "version": "[3.3.4, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.8, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "E:\\dotnet-master\\dotnet-master\\amBXLib\\amBXLib\\amBXLib.vcxproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\dotnet-master\\dotnet-master\\amBXLib\\amBXLib\\amBXLib.vcxproj",
+        "projectName": "amBXLib",
+        "projectPath": "E:\\dotnet-master\\dotnet-master\\amBXLib\\amBXLib\\amBXLib.vcxproj"
+      },
+      "frameworks": {
+        "native": {}
+      }
+    }
+  }
+}
